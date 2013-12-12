@@ -2,8 +2,6 @@ require 'rubygems'
 require 'bundler'
 require 'mysql2'
 require 'json'
-require 'uri'
-require 'pry'
 
 Bundler.require
 
